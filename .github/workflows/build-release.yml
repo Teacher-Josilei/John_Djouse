@@ -1,6 +1,3 @@
-.github/workflows/build-release.yml
-Add build-release workflow
-Add build-release workflow
 
 name: Android Release Build
 
